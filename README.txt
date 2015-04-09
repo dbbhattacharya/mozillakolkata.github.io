@@ -43,3 +43,6 @@ Credits:
 		jquery.scrolly (n33.co)
 		jquery.scrollgress (n33.co)
 		skel (n33.co)
+		
+		
+Officialy Its now the community website of Mozilla Kolkata. Thanks to the developers who has developed such an awesome template.
