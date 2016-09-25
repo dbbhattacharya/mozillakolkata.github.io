@@ -1089,3 +1089,7 @@
 			display: inline-block;
 			width: 5em;
 		}
+
+.txt-appmaker {
+	line-height: 1.3em;
+}
